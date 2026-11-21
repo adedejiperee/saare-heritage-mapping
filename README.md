@@ -25,3 +25,10 @@ The project draws on historical research and spatial documentation. Its methods 
 - Field observation and photographic documentation.
 - Recording geographical coordinates.
 - Spatial mapping and analysis using QGIS
+
+  ## Project Outputs
+- Heritage site inventory.
+- Photographic documentation of identified sites.
+- Geographical coordinates of identified sites.
+- Heritage distribution map.
+- Historical and oral documentation of selected sites.
