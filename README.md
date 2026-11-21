@@ -32,3 +32,17 @@ The project draws on historical research and spatial documentation. Its methods 
 - Geographical coordinates of identified sites.
 - Heritage distribution map.
 - Historical and oral documentation of selected sites.
+
+  ## Tools
+- Microsoft Excel
+- QGIS
+- SW Maps
+- Smartphone camera
+- GPS-enabled mobile device
+- GitHub
+
+## Researcher
+Bello Abdulrahman Peree
+
+## Project Status
+Completed.
