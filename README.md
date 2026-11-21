@@ -6,13 +6,9 @@ The Ṣààrẹ Heritage Mapping Project examines historically and culturally si
 
 ## Project Objectives
 -Identify historically and culturally significant sites in Ṣààrẹ.
-
 -Examine their historical, cultural and social associations.
-
 -Record the geographical locations of identified sites.
-
 -Apply GIS to map and analyse their spatial distribution.
-
 -Contribute to the documentation and preservation of local heritage knowledge in Africa.
 
 ## Study Area
