@@ -2,16 +2,25 @@
 A Heritage and GIS-based project, documenting and mapping the cultural heritage of Ṣààrẹ, Ifelodun LGA, Kwara State, Nigeria.
 
 ## About the Project
-The Ṣààrẹ Heritage Mapping Project examines historically and culturally significant sites within Ṣààrẹ, Kwara State, Nigeria, through historical research and Geographic Information Systems (GIS). It combines historical information, geographical data and spatial analysis to record identified heritage sites, investigate their spatial distribution and explore their historical, cultural and social significance within the community.
+The Ṣààrẹ Heritage Mapping Project examines historically and culturally significant sites within Ṣààrẹ, Ifelodun Local Government Area, Kwara State, Nigeria, through historical research and Geographic Information Systems (GIS). It combines historical information, geographical data and spatial analysis to record identified heritage sites, investigate their spatial distribution and explore their historical, cultural and social significance within the community.
+
+# Research Problem
+Rapid urbanisation, climate change and natural disasters are increasingly transforming the landscapes of smaller African communities. As settlements expand and land use changes, culturally significant landscapes face the risk of alteration, damage or disappearance. This vulnerability is further compounded by the fact that many heritage sites in these small communities lack formal recognition or protection at national and international levels, despite their importance to local histories, traditions and cultural identities. Their significance and value, however, should not depend on formal recognition.
+
+In Ṣààrẹ, these concerns are compounded by the absence of a systematic spatial record documenting historically and culturally significant places. Information about their locations, historical associations and cultural significance has not yet been brought together in a spatially organised record. This project responds by using historical research and GIS to identify and document selected heritage sites in Ṣààrẹ. It seeks to establish a spatial record of these locations and examine their geographical distribution, contributing to the documentation of the community's historical and cultural landscape.
+
+# Research Question
+How can historical research and Geographic Information Systems (GIS) be used to identify, document and map historically and culturally significant sites in Ṣààrẹ, and what can their spatial distribution reveal about the community's cultural landscape amid ongoing urban expansion?
 
 ## Project Objectives
+The project aims to:
 -Identify historically and culturally significant sites in Ṣààrẹ.
 
 -Examine their historical, cultural and social associations.
 
--Record the geographical locations of identified sites.
+-Document the geographical locations and present physical conditions of selected heritage sites.
 
--Apply GIS to map and analyse their spatial distribution.
+-Apply GIS to map and examine their spatial distribution within the community.
 
 -Contribute to the documentation and preservation of local heritage knowledge in Africa.
 
@@ -27,10 +36,10 @@ The project draws on historical research and spatial documentation. Its methods 
 - Spatial mapping and analysis using QGIS
 
   ## Project Outputs
-- Heritage site inventory.
+- An inventory of identified heritage sites.
 - Photographic documentation of identified sites.
 - Geographical coordinates of identified sites.
-- Heritage distribution map.
+- GIS-based maps showing the distribution of documented heritage sites
 - Historical and oral documentation of selected sites.
 
   ## Tools
@@ -42,7 +51,7 @@ The project draws on historical research and spatial documentation. Its methods 
 - GitHub
 
 ## Researcher
-Bello Abdulrahman Peree
+[Bello Abdulrahman Peree](https://www.linkedin.com/in/abdulrahmanbello/)
 
 ## Project Status
 Completed.
