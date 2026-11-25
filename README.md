@@ -27,6 +27,8 @@ The project aims to:
 ## Study Area
 The project focuses on Ṣààrẹ, located in Ifelodun Local Government Area, Kwara State, Nigeria.
 
+**Date of Data Collection:** 6–9 November 2026
+
 ## Methodology
 The project draws on historical research and spatial documentation. Its methods include:
 - Review of historical literature and documentary sources.
