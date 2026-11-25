@@ -54,6 +54,7 @@ The project draws on historical research and spatial documentation. Its methods 
 
 ## Researcher
 [Bello Abdulrahman Peree](https://www.linkedin.com/in/abdulrahmanbello/)
+Email: belloabdulrahman.contact@gmail.com
 
 ## Project Status
 Completed.
