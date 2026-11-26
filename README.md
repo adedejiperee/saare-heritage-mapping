@@ -53,7 +53,7 @@ The project draws on historical research and spatial documentation. Its methods 
 
 ### 2. Historical Compounds & Colonial Sites in Ṣààrẹ
 ![Historical compounds and colonial site in Ṣààrẹ](<maps/Historical compounds and colonial site in Şààrẹ́.png>)
-*Download high-resolution print version: [Historical compounds and colonial site in Ṣààrẹ.pdf](<maps/Historical compounds and colonial site in Ṣààrẹ.pdf>)*
+*Download high-resolution print version: [Historical compounds and colonial site in Ṣààrẹ.pdf](<maps/Historical compounds and colonial site in Şààrẹ́.pdf>)*
 
 ### 3. Historical Compound Distribution
 ![Historical Compound Distribution](<maps/Historical Compound Distribution.png>)
