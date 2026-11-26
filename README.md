@@ -45,6 +45,45 @@ The project draws on historical research and spatial documentation. Its methods 
 - GIS-based maps showing the distribution of documented heritage sites
 - Historical and oral documentation of selected sites.
 
+## Map Previews
+
+### 1. Ṣààrẹ Community Overview
+![Saare Community](<maps/Saare Community.png>)
+*Download high-resolution print version: [Saare Community 2.pdf](<maps/Saare Community 2.pdf>)*
+
+### 2. Historical Compounds & Colonial Sites in Ṣààrẹ
+![Historical compounds and colonial site in Ṣààrẹ](<maps/Historical compounds and colonial site in Ṣààrẹ.png>)
+*Download high-resolution print version: [Historical compounds and colonial site in Ṣààrẹ.pdf](<maps/Historical compounds and colonial site in Ṣààrẹ.pdf>)*
+
+### 3. Historical Compound Distribution
+![Historical Compound Distribution](<maps/Historical Compound Distribution.png>)
+*Download high-resolution print version: [Historical Compound Distribution 3.pdf](<maps/Historical Compound Distribution 3.pdf>)*
+
+### 4. Natural and Spiritual Heritage Sites
+![Natural and Spiritual Heritage Sites](<maps/Natural and Spiritual Heritage Sites.png>)
+*Download high-resolution print version: [Natural and Spiritual Heritage Sites.pdf](<maps/Natural and Spiritual Heritage Sites.pdf>)*
+
+### 5. Odi Abo (Defence Wall)
+![Odi Abo (Defence Wall)](<maps/Odi Abo (Defence Wall).png>)
+*Download high-resolution print version: [Odi Abo (Defense Wall).pdf](<maps/Odi Abo (Defense Wall).pdf>)*
+
+### 6. Ṣààrẹ and Agbonna Ridge (With Contours)
+![Saare and Agbonna Ridge - With Contour](<maps/Saare and Agbonna Ridge - With Contour.png>)
+
+### 7. DEM Elevation Map of Agbonna Hill
+![DEM Elevation Map of Agbonna Hill](<maps/DEM Elevation Map of Agbonna Hill.png>)
+
+### 8. Coloured DEM Elevation Map
+![Coloured DEM Elevation Map](<maps/Coloured DEM Elevation Map.png>)
+*Download high-resolution print version: [Coloured DEM Elevation Map.pdf](<maps/Coloured DEM Elevation Map.pdf>)*
+
+### 9. 3D Satellite Map
+![3D Satellite Map](<maps/3D Sattelite Map - Clean.png>)
+*Download high-resolution print version: [3D Sattelite Map - Clean.pdf](<maps/3D Sattelite Map - Clean.pdf>)*
+
+👉 **[Browse all map files in the `maps/` folder](maps/)**
+
+
   ## Tools
 - Microsoft Excel
 - QGIS
