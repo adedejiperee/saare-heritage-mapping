@@ -52,7 +52,7 @@ The project draws on historical research and spatial documentation. Its methods 
 *Download high-resolution print version: [Saare Community 2.pdf](<maps/Saare Community 2.pdf>)*
 
 ### 2. Historical Compounds & Colonial Sites in Ṣààrẹ
-![Historical compounds and colonial site in Ṣààrẹ](<maps/Historical compounds and colonial site in Ṣààrẹ.png>)
+![Historical compounds and colonial site in Ṣààrẹ](<maps/Historical compounds and colonial site in Şààrẹ́.png>)
 *Download high-resolution print version: [Historical compounds and colonial site in Ṣààrẹ.pdf](<maps/Historical compounds and colonial site in Ṣààrẹ.pdf>)*
 
 ### 3. Historical Compound Distribution
