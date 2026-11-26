@@ -14,6 +14,7 @@ How can historical research and Geographic Information Systems (GIS) be used to 
 
 ## Project Objectives
 The project aims to:
+
 -Identify historically and culturally significant sites in Ṣààrẹ.
 
 -Examine their historical, cultural and social associations.
